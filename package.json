@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@types/accounting": "^0.4.1",
-    "@types/jest": "^26.0.20",
+    "@types/jest": "^26.0.24",
     "husky": "^4.3.8",
     "np": "^7.4.0",
     "tsdx": "^0.14.1",
